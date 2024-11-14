@@ -87,7 +87,7 @@ ent_pass.place(x=290, y=275)
 btn_sign_up = tk.Button(win, text='Sign Up', font='arial 15 bold', width=15, bg='#ff0000', command=sign_up)
 btn_sign_up.place(x=140, y=350)
 
-btn_sign_in = tk.Button(win, text='Sign In', font='arial 15 bold', width=15, bg='#9ffe87', command=sign_in)
+btn_sign_in = tk.Button(win, text='Sign In', font='arial 15 bold', width=15, bg='#ffff00', command=sign_in)
 btn_sign_in.place(x=365, y=350)
 
 
